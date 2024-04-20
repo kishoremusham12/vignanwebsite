@@ -1,0 +1,54 @@
+form{
+    border: solid 0px;
+    width: 800px;
+    background-image: linear-gradient(blue,green)
+    padding-left: 30px;
+    padding-right: 20PX;
+    margin-left: 150px;
+    border-radius: 10% 10% ;
+}
+label{
+    font-size: 25px;
+    font-weight: bold;
+    color: navy;
+}
+input{
+    width: 500px;
+    height: 30px;
+    outline: none;
+    border-radius: 20px;
+    font-size: 20px;
+    padding-left: 10px;
+}
+textarea{
+    width: 500PX;
+    height: 130px;
+    border-radius: 30px;
+    font-size: 20px;
+    padding-left: 20px;
+}
+h1{
+    font-size: 40px;
+    color: navy;
+    text-align: center;
+
+}
+p{
+    font-size: 25px;
+}
+button{
+    width: 150px;
+    height: 50px;
+    font-size: 28px;
+    background-color: #ff4500;
+    border-radius: 30px;
+    margin-left: 160px;
+   
+}
+button a{
+color: beige;
+text-decoration: none;
+}
+body{
+    background-image: linear-gradient(orange,purple);
+}
